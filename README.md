@@ -1,4 +1,4 @@
-# Hi, I’m Ebunjah 👋
+# Hi, I’m Ebunjah Ogungbe 👋
 
 A Data Analyst passionate about transforming data into meaningful insights and impactful stories. 
 
