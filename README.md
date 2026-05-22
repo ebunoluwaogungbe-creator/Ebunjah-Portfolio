@@ -28,5 +28,5 @@ I believe good data analysis is not just about creating charts, but about turnin
 
 ##📫 Let’s Connect
 
-[Linkedin]:(https://www.linkedin.com/in/ogungbe-ebunoluwa/)
-[Twitter/X]:(https://x.com/opemidemi)
+[Linkedin](https://www.linkedin.com/in/ogungbe-ebunoluwa/)
+[X](https://x.com/opemidemi)
