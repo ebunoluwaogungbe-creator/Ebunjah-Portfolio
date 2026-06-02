@@ -13,6 +13,8 @@ Currently building my analytical and problem-solving skills through hands-on pro
 * Python *(Data Analysis & Automation — Currently Learning)*
 
 ## Projects
+|---|
+| [data-cleaning-project-week1](https://github.com/ebunoluwaogungbe-creator/data-cleaning-project-week1/tree/main)
 
 ## 📊 What I’m Currently Working On
 - Building real-world analytics projects
