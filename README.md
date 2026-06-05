@@ -16,6 +16,7 @@ Currently building my analytical and problem-solving skills through hands-on pro
 | Projects | Tools | Description |
 |---|---|---|
 | [data-cleaning-project-week1](https://github.com/ebunoluwaogungbe-creator/data-cleaning-project-week1/tree/main) | Excel | Cleaning a raw dataset using Excel and Power Query to prepare it for analysis |
+| [week2-data-analysis-project](https://github.com/ebunoluwaogungbe-creator/week2-data-analysis-project) | Excel | Exploratory data analysis project involving statistical summaries, trend identification, outlier detection, and insight generation using Excel |
 
 
 ## 📊 What I’m Currently Working On
