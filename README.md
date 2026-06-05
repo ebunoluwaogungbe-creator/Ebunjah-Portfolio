@@ -13,8 +13,10 @@ Currently building my analytical and problem-solving skills through hands-on pro
 * Python *(Data Analysis & Automation — Currently Learning)*
 
 ## Projects
-|---|
-| [data-cleaning-project-week1](https://github.com/ebunoluwaogungbe-creator/data-cleaning-project-week1/tree/main)
+| Projects | Tools | Description |
+|---|---|---|
+| [data-cleaning-project-week1](https://github.com/ebunoluwaogungbe-creator/data-cleaning-project-week1/tree/main) | Excel | Cleaning a raw dataset using Excel and Power Query to prepare it for analysis |
+
 
 ## 📊 What I’m Currently Working On
 - Building real-world analytics projects
