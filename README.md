@@ -30,7 +30,7 @@ Currently building my analytical and problem-solving skills through hands-on pro
 
 ## 💡 How I See Data
 
-To me, data is more than numbers on a spreadsheet — it is a story waiting to be understood. Every dataset contains insights that can help businesses improve operations, reduce risks, increase profitability, and make better decisions.
+To me, data is more than numbers on a spreadsheet. It is a story waiting to be understood. Every dataset contains insights that can help businesses improve operations, reduce risks, increase profitability, and make better decisions.
 
 I believe good data analysis is not just about creating charts, but about turning information into actionable insights that create impact.
 
