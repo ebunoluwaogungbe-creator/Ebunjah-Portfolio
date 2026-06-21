@@ -12,7 +12,7 @@ Currently building my analytical and problem-solving skills through hands-on pro
 * SQL *(Data Querying, Data Extraction — Currently Learning)*
 * Python *(Data Analysis & Automation — Currently Learning)*
 
-## Decodelabs Projects
+## Projects
 | Projects | Tools | Description |
 |---|---|---|
 | [data-cleaning-project-week1](https://github.com/ebunoluwaogungbe-creator/data-cleaning-project-week1/tree/main) | Excel | Cleaning a raw dataset using Excel and Power Query to prepare it for analysis |
