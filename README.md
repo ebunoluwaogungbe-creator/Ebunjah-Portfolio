@@ -15,10 +15,6 @@ Currently building my analytical and problem-solving skills through hands-on pro
 ## Projects
 | Projects | Tools | Description |
 |---|---|---|
-| [data-cleaning-project-week1](https://github.com/ebunoluwaogungbe-creator/data-cleaning-project-week1/tree/main) | Excel | Cleaning a raw dataset using Excel and Power Query to prepare it for analysis |
-| [week2-data-analysis-project](https://github.com/ebunoluwaogungbe-creator/week2-data-analysis-project) | Excel | Exploratory data analysis project involving statistical summaries, trend identification, outlier detection, and insight generation using Excel |
-| [week3-sql-data-querying](https://github.com/ebunoluwaogungbe-creator/week3-sql-data-querying/tree/main) | SQL | SQL fundamentals project focused on data querying, filtering, sorting, grouping, and aggregation to extract meaningful insights from a dataset |
-| [decodelabs-week4-e-commerce-sales-dataset](https://github.com/ebunoluwaogungbe-creator/decodelabs-week4-e-commerce-sales-dataset) | Excel | Interactive e-commerce sales dashboard built in Excel to visualize trends, analyze performance, and communicate insights through data storytelling | 
 | [Logistics-Performance-Analysis](https://github.com/ebunoluwaogungbe-creator/Logistics-Performance-Analysis) | PowerBI | This project presents a comprehensive analysis of logistics operations through the development of an interactive Power BI dashboard |
 
 
