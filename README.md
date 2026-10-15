@@ -22,7 +22,6 @@ Currently building my analytical and problem-solving skills through hands-on pro
 - Building real-world analytics projects
 - Improving my Power BI and DAX skills
 - Learning more about SQL and Python for data analysis
-- Completing projects from my internship program at DecodeLabs
 
 ## 💡 How I See Data
 
