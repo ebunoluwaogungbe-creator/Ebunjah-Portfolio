@@ -1,6 +1,6 @@
 # Hi, I’m Ebunjah Ogungbe 👋
 
-I'm a Data Analyst passionate about transforming data into meaningful insights and impactful stories. 
+I'm a Data Analyst focused on transforming data into meaningful insights and impactful stories. 
 
 Currently building my analytical and problem-solving skills through hands-on projects and continuous learning and sharing publicly on Linkedin and X, to become more job-ready in the data analytics field.
 
