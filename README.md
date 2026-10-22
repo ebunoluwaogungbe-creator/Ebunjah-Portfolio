@@ -17,6 +17,7 @@ Currently building my analytical and problem-solving skills through hands-on pro
 |---|---|---|
 | [Logistics-Performance-Analysis](https://github.com/ebunoluwaogungbe-creator/Logistics-Performance-Analysis) | PowerBI | This project presents a comprehensive analysis of logistics operations through the development of an interactive Power BI dashboard. |
 | [healthcare-patient-records-analysis](https://github.com/ebunoluwaogungbe-creator/healthcare-patient-records-analysis) | PowerBI | A Power BI project analyzing healthcare patient records, demographics, medical conditions, admissions, length of stay, billing, and test results. |
+| [betting-addiction-analysis](https://github.com/ebunoluwaogungbe-creator/betting-addiction-analysis) | Excel | An Excel-based data analysis project exploring betting behaviour, betting app usage, demographic patterns, and addiction-related scores in a dataset of 2,000 records. |
 
 
 ## 📊 What I’m Currently Working On
